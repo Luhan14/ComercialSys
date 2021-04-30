@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ComercialSys.Classes
 {
-    class Usuario
+    public class Usuario
     {
     }
 }
